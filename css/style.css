@@ -1,15 +1,15 @@
 *{
-  margin: 10px;
+  margin: 15px;
 }
 h2{
   font-family: 'Cutive Mono', monospace;;
-  margin: 10px;
+  margin: 15px;
 
 }
 
 hr{
   width: 89px;
-  margin: 10px;
+  margin: 15px;
   color: #000;
   background-color: #000;
   height: 3px;
@@ -28,8 +28,9 @@ div{
   width: 200px;
   height: 200px;
   float: left;
-  margin: 2px;
+  margin: 15px;
   filter:brightness(0.8);
+
 }
 
 .coder1{
