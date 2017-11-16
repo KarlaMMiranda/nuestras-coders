@@ -1,0 +1,80 @@
+*{
+  margin: 10px;
+}
+h2{
+  font-family: 'Cutive Mono', monospace;;
+  margin: 10px;
+
+}
+
+hr{
+  width: 89px;
+  margin: 10px;
+  color: #000;
+  background-color: #000;
+  height: 3px;
+}
+
+h6{
+  font-family: 'Cutive Mono', monospace;
+  font-size: 16px;
+  text-shadow: 2px 2px 2px #000;
+  text-align: right;
+  margin: 170px 10px;
+  color: white;
+}
+
+.coder1{
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 2px;
+  background-image:url("../assets/images/Adalid-Garcia.jpg");
+  filter:brightness(0.8);
+}
+
+.coder2{
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 2px;
+  background-image:url("../assets/images/Carolina-Barrios.jpg");
+  filter:brightness(0.8);
+}
+
+.coder3{
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 2px;
+  background-image: url("../assets/images/Evelyn-Cantor.jpg");
+  filter:brightness(0.8);
+}
+
+.coder4{
+  width: 200px;
+  height: 200px;
+  float: left;
+  clear: left;
+  margin: 2px;
+  background-image: url("../assets/images/Jacqueline-Baez.jpg");
+  filter:brightness(0.8);
+}
+
+.coder5{
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 2px;
+  background-image: url("../assets/images/Norma-Pacheco.jpg");
+  filter:brightness(0.8);
+}
+
+.coder6{
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 2px;
+  background-image: url("../assets/images/Rosaura-Rendon.jpg");
+  filter:brightness(0.8);
+}
