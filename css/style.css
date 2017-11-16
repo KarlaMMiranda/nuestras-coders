@@ -28,6 +28,10 @@ div{
   height: 200px;
   float: left;
   margin: 15px;
+}
+
+div:hover{
+  cursor: pointer;
   filter:brightness(0.8);
 
 }
