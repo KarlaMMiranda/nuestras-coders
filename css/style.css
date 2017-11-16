@@ -24,57 +24,35 @@ h6{
   color: white;
 }
 
-.coder1{
+div{
   width: 200px;
   height: 200px;
   float: left;
   margin: 2px;
-  background-image:url("../assets/images/Adalid-Garcia.JPG");
   filter:brightness(0.8);
+}
+
+.coder1{
+  background-image:url("../assets/images/Adalid-Garcia.JPG");
 }
 
 .coder2{
-  width: 200px;
-  height: 200px;
-  float: left;
-  margin: 2px;
   background-image:url("../assets/images/Carolina-Barrios.JPG");
-  filter:brightness(0.8);
 }
 
 .coder3{
-  width: 200px;
-  height: 200px;
-  float: left;
-  margin: 2px;
   background-image: url("../assets/images/Evelyn-Cantor.JPG");
-  filter:brightness(0.8);
 }
 
 .coder4{
-  width: 200px;
-  height: 200px;
-  float: left;
   clear: left;
-  margin: 2px;
   background-image: url("../assets/images/Jacqueline-Baez.JPG");
-  filter:brightness(0.8);
 }
 
 .coder5{
-  width: 200px;
-  height: 200px;
-  float: left;
-  margin: 2px;
   background-image: url("../assets/images/Norma-Pacheco.JPG");
-  filter:brightness(0.8);
 }
 
 .coder6{
-  width: 200px;
-  height: 200px;
-  float: left;
-  margin: 2px;
-  background-image: url("../assets/images/Rosaura-Rendon.JPG");
-  filter:brightness(0.8);
+    background-image: url("../assets/images/Rosaura-Rendon.JPG");
 }
